@@ -1,5 +1,5 @@
 # JWT Extension Plugin
-The purpose of this plugin is to extend JWT REST API in order to allow CORS authentication to the site.
+The purpose of this plugin is to extend [JWT Authentication for WP REST API](https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/#description) in order to allow CORS authentication to the site.
 
 ## Installation
 1. Install & activate the parent plugin and this extender
