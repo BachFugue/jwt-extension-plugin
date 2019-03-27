@@ -15,7 +15,7 @@ define('JWT_AUTH_CORS_ENABLE', true);
 ```
 
 ## Instructions
-Send request to https://beaconeditors.staging.wpengine.com/wp-json/jwt-auth/v1/token along with username and password
+Send request to /wp-json/jwt-auth/v1/token along with username and password
 
 Receive response in the following form:
 ```json
