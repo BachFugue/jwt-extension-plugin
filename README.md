@@ -1,4 +1,4 @@
-# JWT Extended
+# JWT Extension Plugin
 The purpose of this plugin is to extend JWT REST API in order to allow CORS authentication to the site.
 
 ## Installation
@@ -20,10 +20,10 @@ Send request to https://beaconeditors.staging.wpengine.com/wp-json/jwt-auth/v1/t
 Receive response in the following form:
 ```json
 {
-    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYmVhY29uZWRpdG9ycy5zdGFnaW5nLndwZW5naW5lLmNvbSIsImlhdCI6MTU1MzcxMjgzMywibmJmIjoxNTUzNzEyODMzLCJleHAiOjE1NTQzMTc2MzMsImRhdGEiOnsidXNlciI6eyJpZCI6IjIifX19.iRdTR6z8pLFX-QUqE_RDNe8VnJNc3fmd-GkrTd6Zu6E",
-    "user_email": "giddyup@flatheadbeacon.com",
-    "user_nicename": "beaconeditors",
-    "user_display_name": "beaconeditors",
+    "token": "unique-token-here",
+    "user_email": "my@email.com",
+    "user_nicename": "username",
+    "user_display_name": "username",
     "uid": "2",
     "expires": "2019-10-16 13:10:24"
 }
