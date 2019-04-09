@@ -1,7 +1,7 @@
 <?php
 
 /*
- Plugin Name:  JWT Extender
+ Plugin Name:  JWT Extender: Response Edition
  Plugin URI:   https://flatheadbeacon.com
  Description:  This extends JWT plugin to login thru flatheadbeacon.com
  Version:      2019.03.18
